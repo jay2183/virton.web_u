@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.603" height="17.603" viewBox="0 0 17.603 17.603">
+  <g id="shop_category" transform="translate(-105 -35)">
+    <path id="Path_2540" data-name="Path 2540" d="M111.287,35H105v6.287h6.287Zm-1.257,5.029h-3.772V36.257h3.772Z" fill="#acacac"/>
+    <path id="Path_2541" data-name="Path 2541" d="M420,35v6.287h6.287V35Zm5.029,5.029h-3.772V36.257h3.772Z" transform="translate(-303.684)" fill="#acacac"/>
+    <path id="Path_2542" data-name="Path 2542" d="M105,356.287h6.287V350H105Zm1.257-5.029h3.772v3.772h-3.772Z" transform="translate(0 -303.684)" fill="#acacac"/>
+    <path id="Path_2543" data-name="Path 2543" d="M420,356.287h6.287V350H420Zm1.257-5.029h3.772v3.772h-3.772Z" transform="translate(-303.684 -303.684)" fill="#acacac"/>
+    <path id="Path_2544" data-name="Path 2544" d="M114.43,35h-1.257v8.173H105V44.43h8.173V52.6h1.257V44.43H122.6V43.173H114.43Z" fill="#acacac"/>
+  </g>
+</svg>

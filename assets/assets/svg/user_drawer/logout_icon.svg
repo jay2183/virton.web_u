@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.942" height="17.603" viewBox="0 0 16.942 17.603">
+  <g id="logout_icon" transform="translate(-45.059 -581)">
+    <path id="Path_2346" data-name="Path 2346" d="M.24,7.628l3.811,3.491a.818.818,0,0,0,1.157,0L9.123,7.628A.818.818,0,0,0,7.966,6.47L5.448,8.565V.818a.818.818,0,1,0-1.637,0V8.565L1.4,6.47A.818.818,0,0,0,.24,7.628Z" transform="translate(50.641 594.479) rotate(-90)" fill="#acacac"/>
+    <path id="Path_2239" data-name="Path 2239" d="M217.87,178.161h2.513a1.257,1.257,0,1,1,0,2.515h-3.774A1.677,1.677,0,0,1,214.935,179V164.75a1.678,1.678,0,0,1,1.674-1.677h3.774a1.257,1.257,0,1,1,0,2.515h-2.757c-2.219.048-1.017-.231-1.017,0v12.573h1.261Z" transform="translate(-169.876 417.927)" fill="#acacac" fill-rule="evenodd"/>
+    <path id="Path_2347" data-name="Path 2347" d="M1032.328,551.453h.406" transform="translate(-986 32)" fill="none" stroke="#acacac" stroke-width="1"/>
+  </g>
+</svg>
